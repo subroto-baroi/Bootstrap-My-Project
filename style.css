@@ -1,0 +1,76 @@
+body{
+    width: 960px;
+    height: auto;
+    margin: 40px auto;
+    
+}
+.box-shadow{
+    background-color: #fff;
+    box-shadow: 5px 5px 5px 5px lightgrey;
+    border-radius: 10px;
+}
+
+
+#navbarNav{
+    margin-right: 150px;
+}
+.container{
+    margin-bottom:100px ;
+}
+.carousel-indicators li{
+    background-color: coral;
+}
+
+.button-st{
+    background-image: linear-gradient(to bottom, #24B6FF 0%, #028FE9 100%);
+    color: #fff;
+    padding: 10px 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.orange-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.orange{
+    color: orangered;
+    margin-right: 15px;
+}
+.card{
+    border: none;
+    box-shadow: 2px 2px 2px 2px lightgray;
+    border-radius: 10px;
+}
+.middle{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    margin-bottom: 40px;
+    
+} 
+
+.box-1{
+    box-shadow: 5px 5px 5px 5px lightgray;
+    border-radius: 10px;
+}
+.box-1 img{
+    width: 75%;
+    padding-left: 40px;
+    margin: 40px 0px 30px 0px;
+}
+.box-2{
+    width: 100%;
+}
+
+
+.heading h5{
+    text-align:center;
+    padding-bottom: 20px;
+   
+}
